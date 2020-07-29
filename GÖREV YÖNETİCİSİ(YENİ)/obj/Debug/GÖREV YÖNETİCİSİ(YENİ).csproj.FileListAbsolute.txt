@@ -1,0 +1,90 @@
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).exe.config
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).exe
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).pdb
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).csprojResolveAssemblyReference.cache
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.Form1.resources
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.Properties.Resources.resources
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).csproj.GenerateResource.Cache
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).exe
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).pdb
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.sistembilgileri.resources
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.ekrangörüntüsü.resources
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.girisekrani.resources
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).exe.config
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).exe
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).pdb
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).exe
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).pdb
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).csprojResolveAssemblyReference.cache
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.ekrangörüntüsü.resources
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.Form1.resources
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.girisekrani.resources
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.Properties.Resources.resources
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.sistembilgileri.resources
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).csproj.GenerateResource.Cache
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.nekadaroldu.resources
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).exe.config
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).exe
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).pdb
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).exe
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).pdb
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).csprojResolveAssemblyReference.cache
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.ekrangörüntüsü.resources
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.Form1.resources
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.girisekrani.resources
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.nekadaroldu.resources
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.Properties.Resources.resources
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.sistembilgileri.resources
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).csproj.GenerateResource.Cache
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.calistir.resources
+H:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).exe
+H:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).exe.config
+H:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\Interop.SpeechLib.dll
+H:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).csproj.ResolveComReference.cache
+H:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.calistir.resources
+H:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.ekrangörüntüsü.resources
+H:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.Form1.resources
+H:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.girisekrani.resources
+H:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.nekadaroldu.resources
+H:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.Properties.Resources.resources
+H:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.sistembilgileri.resources
+H:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).csproj.GenerateResource.Cache
+H:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).exe
+H:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).pdb
+H:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).pdb
+E:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).exe.config
+E:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).exe
+E:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).pdb
+E:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).exe
+E:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).pdb
+E:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).csprojResolveAssemblyReference.cache
+E:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.calistir.resources
+E:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.ekrangörüntüsü.resources
+E:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.Form1.resources
+E:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.girisekrani.resources
+E:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.nekadaroldu.resources
+E:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.Properties.Resources.resources
+E:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.sistembilgileri.resources
+E:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).csproj.GenerateResource.Cache
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.calistir.resources
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.hakkında.resources
+C:\Users\Veysel\Desktop\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.hakkında.resources
+E:\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).exe.config
+E:\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).exe
+E:\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).pdb
+C:\Users\veyse\Desktop\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).exe.config
+C:\Users\veyse\Desktop\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).exe
+C:\Users\veyse\Desktop\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\bin\Debug\GÖREV YÖNETİCİSİ(YENİ).pdb
+C:\Users\veyse\Desktop\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).csprojAssemblyReference.cache
+C:\Users\veyse\Desktop\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.calistir.resources
+C:\Users\veyse\Desktop\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.ekrangörüntüsü.resources
+C:\Users\veyse\Desktop\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.Form1.resources
+C:\Users\veyse\Desktop\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.girisekrani.resources
+C:\Users\veyse\Desktop\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.nekadaroldu.resources
+C:\Users\veyse\Desktop\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.Properties.Resources.resources
+C:\Users\veyse\Desktop\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV_YÖNETİCİSİ_YENİ_.sistembilgileri.resources
+C:\Users\veyse\Desktop\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).csproj.GenerateResource.cache
+C:\Users\veyse\Desktop\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).csproj.CoreCompileInputs.cache
+C:\Users\veyse\Desktop\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).csproj.CopyComplete
+C:\Users\veyse\Desktop\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).exe
+C:\Users\veyse\Desktop\PROJELER\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Debug\GÖREV YÖNETİCİSİ(YENİ).pdb

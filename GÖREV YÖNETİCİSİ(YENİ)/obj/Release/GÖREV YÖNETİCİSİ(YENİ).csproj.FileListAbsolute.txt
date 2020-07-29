@@ -1,0 +1,10 @@
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\bin\Release\GÖREV YÖNETİCİSİ(YENİ).exe.config
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Release\GÖREV_YÖNETİCİSİ_YENİ_.calistir.resources
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Release\GÖREV_YÖNETİCİSİ_YENİ_.ekrangörüntüsü.resources
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Release\GÖREV_YÖNETİCİSİ_YENİ_.Form1.resources
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Release\GÖREV_YÖNETİCİSİ_YENİ_.girisekrani.resources
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Release\GÖREV_YÖNETİCİSİ_YENİ_.hakkında.resources
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Release\GÖREV_YÖNETİCİSİ_YENİ_.nekadaroldu.resources
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Release\GÖREV_YÖNETİCİSİ_YENİ_.Properties.Resources.resources
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Release\GÖREV_YÖNETİCİSİ_YENİ_.sistembilgileri.resources
+D:\GÖREV YÖNETİCİSİ(YENİ)1.0\GÖREV YÖNETİCİSİ(YENİ)\obj\Release\GÖREV YÖNETİCİSİ(YENİ).csproj.GenerateResource.Cache
