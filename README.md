@@ -2,7 +2,7 @@ I did it in 2015. Long time ago :)
 
 <h1>TASK MANAGER</h1>
 <br>
-<img src="loading.png">
+<img src="loadling.png">
 <br>
 <img src="tm1.png">
 <br>
